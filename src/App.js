@@ -88,7 +88,7 @@ const App = () => {
 
   return (
     <div className="app">
-      <h1>My To-Do List</h1>
+      <h1>Things-To-Do List</h1>
       <TodoForm addTodo={addTodo} />
       <h2>Open Tasks:</h2>
       <TodoList

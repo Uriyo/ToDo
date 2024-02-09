@@ -27229,7 +27229,7 @@ const App = ()=>{
         className: "app",
         children: [
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("h1", {
-                children: "My To-Do List"
+                children: "Things-To-Do List"
             }, void 0, false, {
                 fileName: "src/App.js",
                 lineNumber: 91,
@@ -27658,7 +27658,7 @@ const TodoItem = ({ todo, toggleTodo, deleteTodo, editTodo })=>{
                         columnNumber: 9
                     }, undefined),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("button", {
-                        className: "btn",
+                        className: "delete-btn",
                         onClick: ()=>deleteTodo(id),
                         children: "Delete"
                     }, void 0, false, {
@@ -27704,6 +27704,7 @@ var _react = require("react");
 var _reactDefault = parcelHelpers.interopDefault(_react);
 const CompletedList = ({ completedTodos })=>{
     return /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
+        className: "compList",
         children: [
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("h2", {
                 children: "Completed Tasks:"
@@ -27714,15 +27715,19 @@ const CompletedList = ({ completedTodos })=>{
             }, undefined),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("ul", {
                 children: completedTodos.map((todo)=>/*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("li", {
-                        children: todo.text
-                    }, todo.id, false, {
+                        className: "compLi",
+                        children: [
+                            todo.text,
+                            " \u2714\uFE0F "
+                        ]
+                    }, todo.id, true, {
                         fileName: "src/components/CompletedList.js",
-                        lineNumber: 9,
+                        lineNumber: 10,
                         columnNumber: 11
                     }, undefined))
             }, void 0, false, {
                 fileName: "src/components/CompletedList.js",
-                lineNumber: 7,
+                lineNumber: 8,
                 columnNumber: 7
             }, undefined)
         ]

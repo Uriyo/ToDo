@@ -50,7 +50,7 @@ const TodoItem = ({ todo, toggleTodo, deleteTodo, editTodo }) => {
       </div>
       <div>
         <button className='btn' onClick={handleEdit}>{editable ? 'Enter' : 'Edit'}</button>
-        <button className='btn' onClick={() => deleteTodo(id)}>Delete</button>
+        <button className='delete-btn' onClick={() => deleteTodo(id)}>Delete</button>
       </div>
     </li>
   );

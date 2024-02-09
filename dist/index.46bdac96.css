@@ -4,6 +4,12 @@
   padding: 0;
 }
 
+.app {
+  box-shadow: #333;
+  margin: 10px;
+  padding: 15%;
+}
+
 body {
   background-color: #f8f8f8;
   font-family: Arial, sans-serif;
@@ -36,7 +42,7 @@ h1 {
 .btn {
   color: #fff;
   cursor: pointer;
-  background-color: #4caf50;
+  background-color: #6463bd;
   border: none;
   border-radius: 5px;
   width: 130px;
@@ -49,7 +55,7 @@ h1 {
 .compbtn {
   color: #fff;
   cursor: pointer;
-  background-color: #4caf50;
+  background-color: #6463bd;
   border: none;
   border-radius: 5px;
   width: 200px;
@@ -62,7 +68,7 @@ h1 {
 .add-btn {
   color: #fff;
   cursor: pointer;
-  background-color: #4caf50;
+  background-color: #6463bd;
   border: none;
   border-radius: 0 5px 5px 0;
   width: 100px;
@@ -72,7 +78,7 @@ h1 {
 }
 
 .add-btn, .btn, .compbtn :hover {
-  background-color: #3e9342;
+  background-color: #6463bd;
 }
 
 .todo-list {
@@ -93,6 +99,20 @@ h1 {
   box-shadow: 0 3px 10px #0000001a;
 }
 
+.compLi {
+  background-color: #fff;
+  border-radius: 10px;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 20px;
+  margin-bottom: 10px;
+  padding: 15px;
+  list-style-type: none;
+  transition: background-color .3s;
+  display: flex;
+  box-shadow: 0 3px 10px #0000001a;
+}
+
 .todo-item:last-child {
   margin-bottom: 0;
 }
@@ -108,7 +128,9 @@ h1 {
   background-color: #f44336;
   border: none;
   border-radius: 5px;
-  padding: 5px 10px;
+  width: 130px;
+  height: 35px;
+  padding: 10px;
   transition: background-color .3s;
 }
 

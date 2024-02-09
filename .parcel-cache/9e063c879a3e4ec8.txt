@@ -1,8 +1,8 @@
-6045
+6049
 121C:\Users\HP\code\node\react\ThingsToDo\node_modules\@parcel\package-manager\test\fixtures\has-foo\subpackage\package.json133519429301418638 0
 71C:\Users\HP\code\node\react\ThingsToDo\node_modules\color-name\index.js133519429270506835 0
 112C:\Users\HP\code\node\react\ThingsToDo\node_modules\csso\node_modules\css-tree\lib\tokenizer\OffsetToLocation.js133519429332983770 0
-51C:\Users\HP\code\node\react\ThingsToDo\package.json133519430721894827 0
+51C:\Users\HP\code\node\react\ThingsToDo\package.json133519452877483641 0
 130C:\Users\HP\code\node\react\ThingsToDo\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\plugins\convertEllipseToCircle.js133519429295038689 0
 64C:\Users\HP\code\node\react\ThingsToDo\src\utils\localStorage.js133519289569565886 0
 66C:\Users\HP\code\node\react\ThingsToDo\node_modules\lmdb\README.md133519429328783827 0
@@ -10,17 +10,17 @@
 78C:\Users\HP\code\node\react\ThingsToDo\node_modules\nth-check\lib\esm\index.js133519429277711972 0
 96C:\Users\HP\code\node\react\ThingsToDo\node_modules\@parcel\core\test\fixtures\duplicate-targets133519429331693721 1
 75C:\Users\HP\code\node\react\ThingsToDo\node_modules\js-yaml\lib\type\seq.js133519429298018636 0
-49C:\Users\HP\code\node\react\ThingsToDo\.gitignore133519304919414413 0
+49C:\Users\HP\code\node\react\ThingsToDo\.gitignore133519438254772119 0
 92C:\Users\HP\code\node\react\ThingsToDo\node_modules\lightningcss-win32-x64-msvc\package.json133519429270526889 0
 87C:\Users\HP\code\node\react\ThingsToDo\node_modules\htmlparser2\lib\WritableStream.d.ts133519429294168631 0
 80C:\Users\HP\code\node\react\ThingsToDo\node_modules\css-select\lib\sort.d.ts.map133519429307036156 0
 99C:\Users\HP\code\node\react\ThingsToDo\node_modules\css-select\lib\pseudo-selectors\subselects.d.ts133519429318221938 0
 108C:\Users\HP\code\node\react\ThingsToDo\node_modules\css-select\node_modules\entities\lib\esm\decode.d.ts.map133519429299768637 0
-43C:\Users\HP\code\node\react\ThingsToDo\dist133519430749749820 1
+43C:\Users\HP\code\node\react\ThingsToDo\dist133519594357474549 1
 104C:\Users\HP\code\node\react\ThingsToDo\node_modules\@swc\helpers\_\_assert_this_initialized\package.json133519429331373837 0
 83C:\Users\HP\code\node\react\ThingsToDo\node_modules\source-map-js\lib\quick-sort.js133519429283198693 0
 139C:\Users\HP\code\node\react\ThingsToDo\node_modules\@parcel\optimizer-htmlnano\node_modules\css-select\lib\pseudo-selectors\subselects.d.ts133519429300398644 0
-46C:\Users\HP\code\node\react\ThingsToDo\db.json133519290237389232 0
+46C:\Users\HP\code\node\react\ThingsToDo\db.json133519644086202085 0
 60C:\Users\HP\code\node\react\ThingsToDo\node_modules\entities133519429295758637 1
 99C:\Users\HP\code\node\react\ThingsToDo\node_modules\caniuse-lite\data\features\input-placeholder.js133519429352826415 0
 74C:\Users\HP\code\node\react\ThingsToDo\node_modules\timsort\src\timsort.js133519429285058683 0
@@ -37,7 +37,7 @@
 77C:\Users\HP\code\node\react\ThingsToDo\node_modules\string-width\package.json133519429273716835 0
 106C:\Users\HP\code\node\react\ThingsToDo\node_modules\@parcel\optimizer-htmlnano\node_modules\csso\lib\clean133519429303258706 1
 51C:\Users\HP\code\node\react\ThingsToDo\node_modules133519431298102552 1
-70C:\Users\HP\code\node\react\ThingsToDo\src\components\CompletedList.js133518928792265456 0
+70C:\Users\HP\code\node\react\ThingsToDo\src\components\CompletedList.js133519589614688157 0
 104C:\Users\HP\code\node\react\ThingsToDo\node_modules\caniuse-lite\data\features\viewport-unit-variants.js133519429365856558 0
 87C:\Users\HP\code\node\react\ThingsToDo\node_modules\csso\lib\replace\property\border.js133519429307160067 0
 70C:\Users\HP\code\node\react\ThingsToDo\node_modules\yallist\yallist.js133519429273616842 0
@@ -83,7 +83,7 @@
 69C:\Users\HP\code\node\react\ThingsToDo\node_modules\@msgpackr-extract133519431298173175 1
 58C:\Users\HP\code\node\react\ThingsToDo\node_modules\@lezer133519429231263542 1
 87C:\Users\HP\code\node\react\ThingsToDo\node_modules\source-map\dist\source-map.debug.js133519429296038687 0
-54C:\Users\HP\code\node\react\ThingsToDo\styles\main.css133518965060169077 0
+54C:\Users\HP\code\node\react\ThingsToDo\styles\main.css133519594352150546 0
 88C:\Users\HP\code\node\react\ThingsToDo\node_modules\css-tree\cjs\syntax\node\Comment.cjs133519429294388643 0
 89C:\Users\HP\code\node\react\ThingsToDo\node_modules\svgo\lib\svgo\css-select-adapter.d.ts133519429297908728 0
 86C:\Users\HP\code\node\react\ThingsToDo\node_modules\@parcel\core\src\RequestTracker.js133519429327913825 0
@@ -93,7 +93,7 @@
 63C:\Users\HP\code\node\react\ThingsToDo\node_modules\emoji-regex133519429281863031 1
 91C:\Users\HP\code\node\react\ThingsToDo\node_modules\caniuse-lite\data\features\flow-root.js133519429346021763 0
 61C:\Users\HP\code\node\react\ThingsToDo\node_modules\callsites133519429278305362 1
-49C:\Users\HP\code\node\react\ThingsToDo\src\App.js133519289668723533 0
+49C:\Users\HP\code\node\react\ThingsToDo\src\App.js133519592165442361 0
 72C:\Users\HP\code\node\react\ThingsToDo\node_modules\weak-lru-cache\tests133519429281544196 1
 53C:\Users\HP\code\node\react\ThingsToDo\src\components133519429334743766 1
 76C:\Users\HP\code\node\react\ThingsToDo\node_modules\abortcontroller-polyfill133519429291418726 1
@@ -131,7 +131,7 @@
 65C:\Users\HP\code\node\react\ThingsToDo\src\components\TodoForm.js133518928580970346 0
 68C:\Users\HP\code\node\react\ThingsToDo\node_modules\semver\functions133519429301888638 1
 58C:\Users\HP\code\node\react\ThingsToDo\node_modules\srcset133519429278408675 1
-65C:\Users\HP\code\node\react\ThingsToDo\src\components\TodoItem.js133519290168310074 0
+65C:\Users\HP\code\node\react\ThingsToDo\src\components\TodoItem.js133519562867873621 0
 89C:\Users\HP\code\node\react\ThingsToDo\node_modules\csso\lib\restructure\1-mergeAtrule.js133519429302188635 0
 56C:\Users\HP\code\node\react\ThingsToDo\node_modules\.bin133519429368486413 1
 107C:\Users\HP\code\node\react\ThingsToDo\node_modules\@swc\helpers\_\_object_destructuring_empty\package.json133519429337293826 0
@@ -912,7 +912,7 @@
 92C:\Users\HP\code\node\react\ThingsToDo\node_modules\type-fest\source\fixed-length-array.d.ts133519429292728724 0
 78C:\Users\HP\code\node\react\ThingsToDo\node_modules\svgo\plugins\reusePaths.js133519429318573756 0
 83C:\Users\HP\code\node\react\ThingsToDo\node_modules\caniuse-lite\data\regions\KP.js133519429353906416 0
-66C:\Users\HP\code\node\react\ThingsToDo\dist\index.46bdac96.css.map133519430744493816 0
+66C:\Users\HP\code\node\react\ThingsToDo\dist\index.46bdac96.css.map133519594355310508 0
 90C:\Users\HP\code\node\react\ThingsToDo\node_modules\type-fest\source\iterable-element.d.ts133519429294608676 0
 77C:\Users\HP\code\node\react\ThingsToDo\node_modules\svgo\plugins\sortAttrs.js133519429319613769 0
 73C:\Users\HP\code\node\react\ThingsToDo\node_modules\msgpackr\benchmark.md133519429304418783 0
@@ -3086,7 +3086,7 @@
 96C:\Users\HP\code\node\react\ThingsToDo\node_modules\caniuse-lite\data\features\es6-generators.js133519429342246901 0
 102C:\Users\HP\code\node\react\ThingsToDo\node_modules\csso\node_modules\css-tree\cjs\tokenizer\index.cjs133519429310198945 0
 113C:\Users\HP\code\node\react\ThingsToDo\node_modules\csso\node_modules\css-tree\cjs\tokenizer\OffsetToLocation.cjs133519429316677901 0
-62C:\Users\HP\code\node\react\ThingsToDo\dist\index.46bdac96.css133519430744063877 0
+62C:\Users\HP\code\node\react\ThingsToDo\dist\index.46bdac96.css133519594355190616 0
 79C:\Users\HP\code\node\react\ThingsToDo\node_modules\@parcel\plugin\package.json133519429278067682 0
 108C:\Users\HP\code\node\react\ThingsToDo\node_modules\csso\node_modules\css-tree\cjs\tokenizer\TokenStream.cjs133519429325933783 0
 104C:\Users\HP\code\node\react\ThingsToDo\node_modules\css-select\node_modules\domutils\lib\legacy.d.ts.map133519429299258660 0
@@ -4239,7 +4239,7 @@
 121C:\Users\HP\code\node\react\ThingsToDo\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\lexer\match-graph.js133519429315867866 0
 92C:\Users\HP\code\node\react\ThingsToDo\node_modules\caniuse-lite\data\features\fullscreen.js133519429347527168 0
 98C:\Users\HP\code\node\react\ThingsToDo\node_modules\caniuse-lite\data\features\css-font-palette.js133519429329923750 0
-65C:\Users\HP\code\node\react\ThingsToDo\dist\index.975ef6c8.js.map133519430748979855 0
+65C:\Users\HP\code\node\react\ThingsToDo\dist\index.975ef6c8.js.map133519594357434853 0
 98C:\Users\HP\code\node\react\ThingsToDo\node_modules\caniuse-lite\data\features\css-font-stretch.js133519429330063734 0
 98C:\Users\HP\code\node\react\ThingsToDo\node_modules\@swc\helpers\_\_class_private_field_loose_base133519429333714043 1
 96C:\Users\HP\code\node\react\ThingsToDo\node_modules\caniuse-lite\data\features\css-gencontent.js133519429330113753 0
@@ -4345,6 +4345,7 @@
 93C:\Users\HP\code\node\react\ThingsToDo\node_modules\caniuse-lite\data\features\flexbox-gap.js133519429345901364 0
 89C:\Users\HP\code\node\react\ThingsToDo\node_modules\caniuse-lite\data\features\flexbox.js133519429345992837 0
 99C:\Users\HP\code\node\react\ThingsToDo\node_modules\caniuse-lite\data\features\input-file-accept.js133519429352636491 0
+61C:\Users\HP\code\node\react\ThingsToDo\dist\index.e250dd51.js133519453025105325 0
 105C:\Users\HP\code\node\react\ThingsToDo\node_modules\caniuse-lite\data\features\focusin-focusout-events.js133519429346310686 0
 94C:\Users\HP\code\node\react\ThingsToDo\node_modules\caniuse-lite\data\features\font-feature.js133519429346460966 0
 77C:\Users\HP\code\node\react\ThingsToDo\node_modules\@parcel\rust\package.json133519429279343202 0
@@ -4615,7 +4616,7 @@
 93C:\Users\HP\code\node\react\ThingsToDo\node_modules\@swc\helpers\_\_class_private_method_init133519429334363848 1
 92C:\Users\HP\code\node\react\ThingsToDo\node_modules\@swc\helpers\_\_class_private_method_set133519429334533748 1
 106C:\Users\HP\code\node\react\ThingsToDo\node_modules\@swc\helpers\_\_class_static_private_field_destructure133519429334633808 1
-54C:\Users\HP\code\node\react\ThingsToDo\dist\index.html133519430749729923 0
+54C:\Users\HP\code\node\react\ThingsToDo\dist\index.html133519594357253379 0
 103C:\Users\HP\code\node\react\ThingsToDo\node_modules\@swc\helpers\_\_class_static_private_field_spec_set133519429334833770 1
 101C:\Users\HP\code\node\react\ThingsToDo\node_modules\@swc\helpers\_\_class_static_private_field_update133519429334883890 1
 77C:\Users\HP\code\node\react\ThingsToDo\node_modules\@swc\helpers\_\_construct133519429335063748 1
@@ -6043,4 +6044,7 @@
 61C:\Users\HP\code\node\react\ThingsToDo\node_modules\.bin\svgo133519429368506409 0
 65C:\Users\HP\code\node\react\ThingsToDo\node_modules\.bin\svgo.cmd133519429368506409 0
 79C:\Users\HP\code\node\react\ThingsToDo\node_modules\.bin\update-browserslist-db133519429368506409 0
-61C:\Users\HP\code\node\react\ThingsToDo\dist\index.975ef6c8.js133519430748730039 0
+62C:\Users\HP\code\node\react\ThingsToDo\dist\index.1c8df7a6.css133519453025065368 0
+66C:\Users\HP\code\node\react\ThingsToDo\dist\index.1c8df7a6.css.map133519453025381228 0
+61C:\Users\HP\code\node\react\ThingsToDo\dist\index.975ef6c8.js133519594357273359 0
+65C:\Users\HP\code\node\react\ThingsToDo\dist\index.e250dd51.js.map133519453025398436 0
